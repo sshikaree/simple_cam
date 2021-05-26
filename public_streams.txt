@@ -1,0 +1,2 @@
+rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
+rtsp://freja.hiof.no:1935/rtplive/definst/hessdalen03.stream

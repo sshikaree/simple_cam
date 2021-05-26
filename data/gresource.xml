@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/ui">
+        <file alias="main_window.ui" compressed="true" preprocess="xml-stripblanks">../ui/main_window.ui</file>
+        <file alias="add_cam_dialog.ui" compressed="true" preprocess="xml-stripblanks">../ui/add_cam_dialog.ui</file>
+        <file alias="add_cam_url_dialog.ui" compressed="true" preprocess="xml-stripblanks">../ui/add_cam_url_dialog.ui</file>
+    </gresource>
+</gresources>

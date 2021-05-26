@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<cams>
+  <group name="Main group">
+    <cam name="Bunny" url="rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov"/>
+    <cam name="Hessdalen" url="rtsp://freja.hiof.no:1935/rtplive/definst/hessdalen03.stream"/>
+  </group>
+</cams>

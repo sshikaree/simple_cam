@@ -1,0 +1,34 @@
+namespace SimpleCam {
+
+public class AddCamDialog : Gtk.Dialog {
+    private string _ip_address;
+    private string _username;
+    private string _password;
+
+    public string ip_address {
+        get {return _ip_address;}
+    }
+    public string username {
+        get {return _username;}
+    }
+    public string password {
+        get {return _password;}
+    }
+
+
+    public AddCamDialog() {
+        title = "Add new camera";
+        destroy_with_parent = true;
+        modal = true;
+        
+        //  var box = this.get_content_area();
+
+        add_button(_("Add"), Gtk.ResponseType.OK);
+        add_button(_("Cancel"), Gtk.ResponseType.CANCEL);
+    }
+}
+
+
+
+
+}

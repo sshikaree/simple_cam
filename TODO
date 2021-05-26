@@ -1,0 +1,9 @@
++ Camera deleting
+— Camera editing
+— Camera groups management
+— Better screen splitting
++ Data storage
+— Settings storage
+— Check for camera name collision before adding
+- Bugs with cam_grid
+- Show camera name in cam_widget

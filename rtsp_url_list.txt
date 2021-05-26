@@ -1,0 +1,198 @@
+3S:: rtsp://IPAddress/cam1/h264
+4XEM: rtsp://IPAddress/live.sdp
+A-MTK: rtsp://IPAddress/media/media.amp
+ABS: rtsp://IPAddress/mpeg4/1/media.amp
+Absolutron: rtsp://IPAddress/image.mpg
+ACTi: rtsp://192.168.0.100:7070/
+ACTi: rtsp://192.168.0.100/
+Acumen: rtsp://IPAddress/mpg4/rtsp.amp
+Airlink101: rtsp://IPAddress/mpeg4
+AirLive: rtsp://IPAddress/video.mp4
+ALinking: rtsp://IPAddress/cam1/mjpeg
+ALinking: rtsp://IPAddress/cam1/mpeg4
+ALinking: rtsp://IPAddress/cam1/h264
+ALLIEDE: rtsp://IPAddress:555/0/1:1/main
+Asante: rtsp://IPAddress/cam1/mpeg4
+Asoni: rtsp://IPAddress/GetData.cgi
+Asoni: rtsp://IPAddress/
+Aviosys: rtsp://IPAddress/mpeg4
+Aviosys: rtsp://IPAddress:8554/mpeg4
+AVS: Uriel: rtsp://IPAddress/mpeg4
+AVTech: rtsp://IPAddress/live/mpeg4
+AVTech: rtsp://IPAddress/live/h264
+AXIS: rtsp://IPAddress/mpeg4/media.amp
+AXIS: rtsp://IPAddress/axis-media/media.amp
+AXview: rtsp://IPAddress
+Basler: rtsp://192.168.100.x/mpeg4
+Basler: rtsp://IPAddress/h264?multicast
+BiKal: IP: CCTV: rtsp://IPAddress/
+BiKal: IP: CCTV: rtsp://IPAddress/user.pin.mp2
+BlueJay: rtsp://IPAddress/mpeg4
+Bosch: rtsp://192.168.0.1/rtsp_tunnel
+Bosch: rtsp://192.168.0.1/video
+Bosch: rtsp://192.168.0.1/?inst=2
+Brickcom: rtsp://192.168.1.1/channel1
+Canon: rtsp://192.168.100.1/
+Canon: rtsp://192.168.100.1/stream/profile1=u
+Canon: rtsp://192.168.100.1/profile1=r
+Canon: rtsp://192.168.100.1/profile1=u
+CBC-Ganz: rtsp://IPAddress/gnz_media/main
+Cisco: rtsp://IPAddress/img/media.sav
+Cisco: rtsp://IPAddress
+Clairvoyant: MWR: rtsp://IPAddress/av0_0
+CNB: rtsp://192.168.123.100/
+CNB: rtsp://192.168.123.100/mpeg4
+Cohu: rtsp://IPAddress/stream1
+Cohu: rtsp://IPAddress/cam
+Compro: rtsp://IPAddress/medias1
+Dahua: rtsp://admin:admin@192.168.1.108:554/cam/realmonitor?channel=1&subtype=1
+D-Link: rtsp://IPAddress/play1.sdp
+D-Link: rtsp://IPAddress/play2.sdp
+Dallmeier: rtsp://IPAddress/encoder1
+DoOurBest: rtsp://IPAddress/: ch0_0.h264
+DVTel-IOimage: rtsp://IPAddress/ioImage/1
+EagleVision: rtsp://IPAddress/11
+EDIMAX: rtsp://IPAddress/ipcam.sdp
+EDIMAX: rtsp://IPAddress/ipcam_h264.sdp
+ENEO: rtsp://IPAddress/1/stream1
+Etrovision: rtsp://IPAddress/rtpvideo1.sdp
+EverWorldView: rtsp://IPAddress
+EverFocus: rtsp://IPAddress/streaming/channels/0
+Fine CCTV: rtsp://IPAddress/mpeg4
+FLIR Systems: rtsp://IPAddress/ch0
+FLIR Systems: rtsp://IPAddress/vis
+FLIR Systems: rtsp://IPAddress:544/wfov
+Foscam: rtsp://IPAddress/11
+FSAN: RTSP://IPAddress/
+Gadspot: rtsp://IPAddress/video.mp4
+Genie: rtsp://IPAddress
+Genius: rtsp://IPAddress/avn=2
+GeoVision: rtsp://192.168.0.10:8554/CH001.sdp
+Grandstream: rtsp://	192.168.1.168/
+GRUNDIG: rtsp://IPAddress/jpeg
+GRUNDIG: rtsp://IPAddress/h264
+GVI: rtsp://IPAddress/mpeg4
+Hikvision: rtsp://192.0.0.64:554/h264
+HuntElectronics: rtsp://IPAddress/video1+audio1
+Ikegami: rtsp://IPAddress/stream1
+iLink: rtsp://IPAddress
+IndigoVision: rtsp://IPAddress
+Infinova: rtsp://IPAddress/1.AMP
+InnovativeSecurityDesigns: rtsp://IPAddress/stream1
+INSTEK: DIGITAL: rtsp://IPAddress/
+Intellinet: rtsp://IPAddress/video.mp4
+Intellio: rtsp://IPAddress/
+IONodes: rtsp://IPAddress/videoinput_1/h264_1/media.stm
+IPUX: rtsp://IPAddress/mpeg4
+IPx: rtsp://IPAddress/camera.stm
+IQinVision: rtsp://IPAddress/now.mp4
+IQinVision: rtsp://IPAddress/mp4
+IRLAB: rtsp://IPAddress/
+JVC: rtsp://IPAddress/PSIA/Streaming/channels/0
+JVC: rtsp://IPAddress/PSIA/Streaming/channels/1
+KARE: CSST-DIT: rtsp://IPAddress
+KTC: rtsp://IPAddress/h264/
+Launch: rtsp://IPAddress/0/username:password/main
+Launch: rtsp://IPAddress:554/0/username:password/main
+Laview: rtsp://IPAddress/
+LevelOne: rtsp://IPAddress/access_code
+LevelOne: rtsp://IPAddress/channel1
+LevelOne: rtsp://IPAddress/live.sdp
+LevelOne: rtsp://IPAddress/video.mp4
+LevelOne: rtsp://IPAddress/h264
+Linksys: rtsp://IPAddress/img/video.sav
+Logitech: rtsp://IPAddress/HighResolutionVideo
+Lorex: rtsp://IPAddress/video.mp4
+Lumenera: rtsp://IPAddress/
+LUXONVIDEO: rtsp://IPAddress/user_defined
+Marmitek: rtsp://IPAddress/mpeg4
+MaxVideo: rtsp://IPAddress/0/usrnm:pwd/main
+MC Electronics: rtsp://IPAddress/
+MeritLi-Lin: http://IPAddress: /rtsph264720p
+MeritLi-Lin: http://IPAddress/rtsph2641080p
+MeritLi-Lin: http://IPAddress: /rtsph264
+MeritLi-Lin: http://IPAddress: /rtsph2641024p
+MeritLi-Lin: rtsp://IPAddress/rtsph264
+MeritLi-Lin: http://IPAddress: /rtspjpeg
+MeritLi-Lin: http://IPAddress: /rtsph264
+MESSOA: rtsp://192.168.1.30:8557/h264
+MESSOA: rtsp://192.168.1.30/mpeg4
+MESSOA: rtsp://192.168.1.30/livestream/
+MESSOA: rtsp://192.168.1.30:7070
+MicroDigital: rtsp://IPAddress/cam0_0
+Moxa: rtsp://IPAddress/multicaststream
+MultiPix: rtsp://IPAddress/video1
+Onix: rtsp://IPAddress/cam0_0
+OpenEye: rtsp://IPAddress/h264
+Panasonic: rtsp://192.168.0.253:port//nphMpeg4/g726-640x48
+Panasonic: rtsp://192.168.0.253/nphMpeg4/g726-640x480
+Panasonic: rtsp://192.168.0.253/nphMpeg4/nil-320x240
+Panasonic: rtsp://192.168.0.253/MediaInput/h264
+Panasonic: rtsp://192.168.0.253/nphMpeg4/g726-640x
+Panasonic: rtsp://192.168.0.253/MediaInput/mpeg4
+Pelco: rtsp://IPAddress/stream1
+PiXORD: rtsp://IPAddress
+Planet: rtsp://IPAddress/ipcam.sdp
+Planet: rtsp://IPAddress/ipcam_h264.sdp
+Planet: rtsp://IPAddress/media/media.amp
+PRIME: rtsp://IPAddress/cam1/h264/multicast
+QihanTechnology: rtsp://IPAddress
+Repotec: rtsp://IPAddress/cam1/mpeg4?user='username'&pwd='password'
+SafeSky: rtsp://IPAddress
+Samsung: rtsp://192.168.1.200/mpeg4unicast
+Samsung: rtsp://192.168.1.200/mjpeg/media.smp
+Samsung: rtsp://192.168.1.200/h264/media.smp
+Sanan: rtsp://IPAddress/
+Sanyo: rtsp://192.168.0.2/VideoInput/1/h264/1
+ScallopImaging: rtsp://IPAddress:8554/main
+Sentry: rtsp://IPAddress/mpeg4
+SeyeonTech: -
+FlexWATCH: rtsp://IPAddress/cam0_1
+Sharx: rtsp://IPAddress/live_mpeg4.sdp
+Siemens: rtsp://IPAddress/img/video.asf
+Siemens: rtsp://IPAddress/livestream
+Siqura: rtsp://IPAddress/mpeg4
+Siqura: rtsp://IPAddress/h264
+Siqura: rtsp://: IPAddress/VideoInput/1/h264/1
+Siqura: rtsp://: IPAddress/VideoInput/1/mpeg4/1
+Sitecom: rtsp://IPAddress/img/video.sav
+Sony: rtsp://IPAddress/media/video1
+Sparklan: rtsp://IPAddress/mpeg4
+Speco: rtsp://192.168.1.7/
+StarDot: rtsp://IPAddress/nph-h264.cgi
+StarVedia: rtsp://IPAddress/CAM_ID.password.mp2
+StoreNet: rtsp://IPAddress/stream1
+SuperCircuits: rtsp://IPAddress/ch0_unicast_firststream
+SuperCircuits: rtsp://IPAddress/ch0_unicast_secondstream
+SuperCircuits: rtsp://IPAddress/live/mpeg4
+Swann: rtsp://IPAddress/mpeg4
+TCLINK: rtsp://IPAddress/av2
+TCLINK: rtsp://IPAddress/live.sdp
+Topica: rtsp://IPAddress:7070
+Topica: rtsp://IPAddress/h264/media.amp
+TP-Link: rtsp://IPAddress/video.mp4
+TRENDnet: rtsp://IPAddress/mpeg4
+TRENDnet: rtsp://IPAddress/play1.sdp
+Truen: rtsp://IPAddress/video1
+Ubiquiti: rtsp://IPAddress/live/ch00_0
+UDP: Technology: rtsp://IPAddress/ch0_unicast_firststream
+Verint: rtsp://IPAddress
+Vgsion: rtsp://IPAddress/11
+Vicon: rtsp://{user:password}@IPAddress:7070/
+Vicon: rtsp://IPAddress/access_name_for_stream_1_to_5
+Vicon: rtsp://{user:password}@IPAddress:7070/
+VICON: rtsp://IPAddress:8557/h264
+Videolarm: rtsp://IPAddress/mpeg4/1/media.amp
+VisionDigi: rtsp://IPAddress/
+VisionhitechAmericas: rtsp://IPAddress/h264&basic_auth=<base64_union_of_id&pwd>
+Visionite: rtsp://IPAddress
+VISTA: rtsp://IPAddress/cam1/h264
+VISTA: rtsp://IPAddress/
+VITEK: rtsp://IPAddress/ch0.sdp
+Vivotek: rtsp://192.168.1.20/live.sdp
+Weldex: rtsp://IPAddress:7070/h264
+XM: rtsp://192.168.0.10:554/user=admin&password=&channel=1&stream=0.sdp?
+Y-cam: rtsp://IPAddress/live_mpeg4.sdp
+Yudor: rtsp://IPAddress/
+Zavio: rtsp://IPAddress/video.3gp
+Zavio: rtsp://IPAddress/video.mp4
